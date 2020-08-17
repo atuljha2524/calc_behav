@@ -1,6 +1,6 @@
 # Addition
 
-Scenario: Adding 2 negaative numbers
+Scenario: Adding 2 negative numbers
   
   Given The calculator is turned on
 
@@ -20,15 +20,15 @@ Scenario: Adding fractions
   
   When I type a positive number
   I type slash
-  I type a positive munber
+  I type a positive number
   I type plus
   I type a positive number
   I type slash
-  I type a positive munber
+  I type a positive number
   
   Then i see a number slash and a number
   
-Scenario: Addition of +ve and -ve number
+Scenario: Addition of positive and negative number
   
   Given the calculator is on
   
