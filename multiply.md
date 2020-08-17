@@ -33,7 +33,7 @@ Scenario: Zero value multiplication
   I type a number
   I type equals to
   
-  Then I get zero 
+  Then I get zero
   
 Scenario: Multiplication by 1
   
