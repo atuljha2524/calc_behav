@@ -20,7 +20,7 @@ Scenario: Signs of number
   I type a signed number
   I type equals to
   
-  Then if one them is negative I get negative answer
+  Then if one of them is negative I get negative answer
   if both are negative I get positive answer
   if both are positive I get positive answer
   
