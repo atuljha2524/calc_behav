@@ -1,4 +1,4 @@
-#Subtraction
+# Subtraction
 
 Scenario: When both are fraction
 
@@ -22,5 +22,5 @@ Scenario: When both are decimal
   I type a minus operator
   I type a decimal
   
-  then I may get decimal up to 
+  then I may get decimal up to
   2 decimal places
