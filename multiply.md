@@ -56,4 +56,4 @@ Scenario: Decimal value multiplication
   I type equals to
   
   Then I may get decimal number
-  upto 2 decimal place
+  up to 2 decimal places
