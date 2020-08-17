@@ -65,6 +65,6 @@ Scenario: Typing the operator more than once
   I type an Integer
   I type equals to
   
-  Then the operator is updated by last operator
+  Then the operator buffer updates to the last operator
   I typed and I see the addition of two
   integer
