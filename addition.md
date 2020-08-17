@@ -53,7 +53,7 @@ Scenario: Addition of decimal number
   I type equals to
   
   Then I may get decimal number
-  upto 2 decimal places
+  up to 2 decimal places
   
 Scenario: Typing the operator more than once
   
