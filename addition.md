@@ -47,4 +47,3 @@ Scenario:
   When (state the event)
   
   Then (state the effect)
-  
