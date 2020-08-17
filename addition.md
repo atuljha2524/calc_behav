@@ -2,7 +2,7 @@
 
 Scenario: Adding 2 negative numbers
   
-  Given The calculator is turned on
+  Given The calculator is on
 
   When I type in "bracket open"
   I type in "negative number"
