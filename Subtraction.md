@@ -24,3 +24,20 @@ Scenario: When both are decimal
   
   then I may get decimal up to
   2 decimal places
+
+Scenario: Both the digits are negative
+
+  Given: calculator is on.
+
+  When:Both the digits are negative.
+
+  Then:Add two digits and put minus sign in front of result.
+
+Scenario: One is positive and another is negative number
+
+  Given: calculator is on.
+
+  When: One number is positive and another is negative number.
+
+  Then: Do addition of two digits.
+  And the number which is large, put its sign in front of result.
