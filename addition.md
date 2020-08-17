@@ -36,11 +36,11 @@ Scenario: Addition of +ve and -ve number
   I type plus
   I type in "bracket open"
   I type in "negative number"
-  I type in "bracket close" 
+  I type in "bracket close"
   
   Then I see the number may be positive or negative depending on the value of 2 numbers
   
-Scenario: 
+Scenario:
   
   Given (state the initial condition)
   
